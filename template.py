@@ -29,7 +29,8 @@ list_of_files=[
     "demo.py",
     "setup.py",
     "config/model.yaml",
-    "config/schema.yaml"
+    "config/schema.yaml",
+    "checkfile23.yaml"
 ]
 
 for filepath in list_of_files:
