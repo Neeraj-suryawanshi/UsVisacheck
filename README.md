@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 # Export the environment variable
 run below command in git bash
-export MONGODB_URL=mongodb+srv://suryawanshineeraj32:ULWtnlxyLwQ7advn@cluster0.ab2a2z2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+export MONGODB_URL="mongodb+srv://suryawanshineeraj32:ULWtnlxyLwQ7advn@cluster0.ab2a2z2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 format (export MONGODB_URL="mongodb+srv://<username>:<password>....")
 
 # we can set environment variable directly also 

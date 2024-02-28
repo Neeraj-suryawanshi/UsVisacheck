@@ -1,4 +1,4 @@
-from us_visa.configuration.mongo_db_connection import MongoDBClient
+from us_visa.configuration.mongodb_connection import MongoDBClient
 from us_visa.constants import DATABASE_NAME
 from us_visa.exception import USvisaException
 import pandas as pd
