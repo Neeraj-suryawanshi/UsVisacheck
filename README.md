@@ -49,6 +49,15 @@ format (export MONGODB_URL="mongodb+srv://<username>:<password>....")
 
 # we can set environment variable directly also 
 
+### Export the environment variable
+#export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+export AWS_ACCESS_KEY_ID="AKIAULZOALDROLSEAC45"
+
+export AWS_SECRET_ACCESS_KEY="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"
+
+
+
 
 
 
